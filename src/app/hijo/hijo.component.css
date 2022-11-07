@@ -1,0 +1,14 @@
+div{
+    width: 75px;
+    height: 75px;
+}
+
+.rojo{
+    background-color: red;
+}
+.azul{
+    background-color: blue;
+}
+.amarillo{
+    background-color: yellow;
+}
